@@ -33,13 +33,25 @@ nav ul li a {
 }
 
 footer {
+    position: relative;
     background-color: #22160F;
     color: #fff;
     padding: 10px 0;
-    position: fixed;
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+
+footer .social-media a{
+    color: white;
+}
+
+footer .social-media a:hover {
+    color: #DBBAA4;
+}
+
+footer .social-media{
+    margin-top: -10px;
 }
 
 /* Page-specific Styles */
