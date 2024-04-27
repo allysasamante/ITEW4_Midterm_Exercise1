@@ -33,10 +33,10 @@ nav ul li a {
 }
 
 footer {
-    position: relative;
     background-color: #22160F;
     color: #fff;
     padding: 10px 0;
+    position: fixed;
     bottom: 0;
     width: 100%;
     text-align: center;
